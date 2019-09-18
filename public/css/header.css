@@ -38,7 +38,8 @@ body > *, html {
   .logo .bg-light {
     background-color: #fff !important;
     width: 100%; }
-    .logo .bg-light .navbar-brand {
+    .logo .bg-light .navbar-brand img {
+      width: 210px!important;
       margin-left: 90px; }
   .logo .navbar-nav {
     margin-top: -10px;

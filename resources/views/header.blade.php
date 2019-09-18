@@ -18,9 +18,9 @@
 			</div>
 
 			<nav class="navigations logo">
-		      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+		      <nav class="navbar navbar-expand-lg navbar-light container" id="bg-light">
 		          <a href="" class="navbar-brand">
-		            <img src="images/logo1.png" alt="" width="210px" height="87px">
+		            <img src="images/logo1.png" alt="" style="width: 210px">
 		          </a>
 		      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 		        <span class="navbar-toggler-icon"></span>
